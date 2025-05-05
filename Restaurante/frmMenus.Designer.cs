@@ -1,6 +1,6 @@
 ﻿namespace Restaurante
 {
-    partial class Form1
+    partial class frmMenus
     {
         /// <summary>
         /// Required designer variable.
@@ -283,7 +283,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1101, 585);
+            this.ClientSize = new System.Drawing.Size(1005, 502);
             this.Controls.Add(this.lblFechaActual);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.dgvSistemaHotel);
